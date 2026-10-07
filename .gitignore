@@ -1,0 +1,33 @@
+# Personal development logs
+History.md
+
+# Non-distributable literature and binaries
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.md~
+Aplicaciones/
+Citas/
+References/
+Data/
+
+# Generated output data
+output/*.dat
+output/*.gnu
+
+# Julia environment artifacts
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.so
+*.dylib
+*.dll
+Manifest.toml
+.DS_Store
+
+# Scratch and editor files
+.vscode/
+.idea/
+*.swp
+*~
